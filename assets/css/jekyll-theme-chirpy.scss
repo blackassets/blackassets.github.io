@@ -11,6 +11,7 @@
 
 .click-button {
     display: inline-block;
+    width: 100%; /* 버튼 가로 크기를 100%로 설정 */
     padding: 12px 20px;
     background-color: #FFD700; /* 밝은 노란색 */
     color: #000; /* 검은색 글자 */

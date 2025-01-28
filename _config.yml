@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: blackassets # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 사소하지만 큰 도움이 되는 유용한 팁과 정보를 매일 업데이트합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   사소하지만 큰 도움이 되는 유용한 팁과 정보를 매일 업데이트합니다.

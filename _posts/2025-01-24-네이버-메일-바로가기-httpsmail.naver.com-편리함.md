@@ -1,7 +1,7 @@
 ---
 title: 네이버 메일 바로가기 https//mail.naver.com 편리함
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

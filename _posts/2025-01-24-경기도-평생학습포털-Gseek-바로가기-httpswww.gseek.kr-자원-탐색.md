@@ -1,7 +1,7 @@
 ---
 title: 경기도 평생학습포털 Gseek 바로가기 https//www.gseek.kr 자원 탐색
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

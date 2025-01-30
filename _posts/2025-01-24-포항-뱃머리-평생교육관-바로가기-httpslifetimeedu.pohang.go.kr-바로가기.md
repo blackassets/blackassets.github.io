@@ -1,7 +1,7 @@
 ---
 title: 포항 뱃머리 평생교육관 바로가기 https//lifetimeedu.pohang.go.kr 바로가기
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

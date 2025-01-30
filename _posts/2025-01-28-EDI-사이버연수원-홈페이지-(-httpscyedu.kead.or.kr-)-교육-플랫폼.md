@@ -1,7 +1,7 @@
 ---
 title: EDI 사이버연수원 홈페이지 ( https//cyedu.kead.or.kr/ ) 교육 플랫폼
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

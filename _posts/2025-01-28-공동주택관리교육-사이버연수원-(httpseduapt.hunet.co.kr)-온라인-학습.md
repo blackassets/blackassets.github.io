@@ -1,7 +1,7 @@
 ---
 title: 공동주택관리교육 사이버연수원 (https//eduapt.hunet.co.kr/) 온라인 학습
 author: bing
-date: 2025-01-28
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

@@ -1,7 +1,7 @@
 ---
 title: wish 쇼핑몰 (http//www.wish.com/) 저렴한 가격
 author: bing
-date: 2025-01-25
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

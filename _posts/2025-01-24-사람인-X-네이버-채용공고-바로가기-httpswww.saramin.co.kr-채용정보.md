@@ -1,7 +1,7 @@
 ---
 title: 사람인 X 네이버 채용공고 바로가기 https//www.saramin.co.kr 채용정보
 author: bing
-date: 2025-01-24
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

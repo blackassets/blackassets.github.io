@@ -1,7 +1,7 @@
 ---
 title: LG디스플레이 라이프케어 임직원몰 바로가기 https//lgd.lglifecare.com 편리함
 author: bing
-date: 2025-01-24
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

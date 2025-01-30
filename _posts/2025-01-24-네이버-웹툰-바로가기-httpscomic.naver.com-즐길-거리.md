@@ -1,7 +1,7 @@
 ---
 title: 네이버 웹툰 바로가기 https//comic.naver.com 즐길 거리
 author: bing
-date: 2025-01-24
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

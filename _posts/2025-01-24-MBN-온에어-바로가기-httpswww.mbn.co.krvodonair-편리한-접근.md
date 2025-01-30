@@ -1,7 +1,7 @@
 ---
 title: MBN 온에어 바로가기 https//www.mbn.co.kr/vod/onair 편리한 접근
 author: bing
-date: 2025-01-24
+date: 2025-01-30
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

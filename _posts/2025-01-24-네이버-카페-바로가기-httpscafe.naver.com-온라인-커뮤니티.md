@@ -1,7 +1,7 @@
 ---
 title: 네이버 카페 바로가기 https//cafe.naver.com 온라인 커뮤니티
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

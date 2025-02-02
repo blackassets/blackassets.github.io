@@ -1,7 +1,7 @@
 ---
 title: ZUM 바로가기 설정하기 삭제하기 줌 바로가기 https//zum.com 편리하게 사용하기
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

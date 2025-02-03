@@ -1,7 +1,7 @@
 ---
 title: 서울시교육청 업무포털 EVPN 원격업무지원시스템 바로가기 https//evpn.sen.go.kr 편리한 접근
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

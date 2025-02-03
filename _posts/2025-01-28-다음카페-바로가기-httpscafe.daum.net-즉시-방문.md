@@ -1,7 +1,7 @@
 ---
 title: 다음카페 바로가기 https//cafe.daum.net 즉시 방문
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

@@ -1,7 +1,7 @@
 ---
 title: 공동주택관리교육 사이버연수원ㅣ입대의 법정교육 바로가기 https//eduapt.hunet.co.kr 신속한 등록
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

@@ -1,7 +1,7 @@
 ---
 title: 학교안전공제중앙회 어린이통학버스 정보시스템 schoolbus.ssif.or.kr 안전관리
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
